@@ -1,0 +1,16 @@
+git init
+
+git remote -v
+
+git remote add upstream https://github.com/chhavi98/CodingDuels.git
+
+git pull upstream  main
+
+ git status
+
+git add .
+
+git commit -m 'Initial commit'
+
+git push upstream head
+give username and token
